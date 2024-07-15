@@ -1,2 +1,3 @@
 # text-particle (Live Preview)
-https://deepakgsbv7186.github.io/text-particle/
+- write text and movve the cursor
+- the particles moves and show a beautiful motion
